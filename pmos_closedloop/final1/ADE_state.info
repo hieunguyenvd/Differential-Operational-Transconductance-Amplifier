@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("OTA_Design" "pmos_closedloop" "schematic" "spectre")
+descriptionText = "None"
